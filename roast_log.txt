@@ -1,0 +1,6 @@
+2025-08-06 09:44:18.121316 | Roast | Input: I’m coding | Output: You're like a very safe for loop. Too safe. 🧼
+2025-08-06 09:44:33.676403 | Roast | Input: I’m coding | Output: You're like an IDE with no extensions — basic and stable. 🧰
+2025-08-06 09:44:38.824662 | Compliment | Input: I’m coding | Output: You're default, but in the best way. 🧸
+2025-08-06 10:13:00.230321 | Roast | Input: I’m coding | Output: You’re like a 0 accuracy model. Useless and sad. 😞
+2025-08-06 10:13:10.361160 | Roast | Input: I’m coding | Output: You said: I’m coding... and still thought you’d escape a roast? 😏
+2025-08-06 10:13:15.280531 | Roast | Input: Why is AI so weird | Output: You said: Why is AI so weird... and still thought you’d escape a roast? 😏
